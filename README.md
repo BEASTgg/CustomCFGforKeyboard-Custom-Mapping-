@@ -4,7 +4,7 @@
 ## Just copy and paste the file in your redragon fizz k617 software folder and enjoy
 
 
-### Replaced the caps lock key as func & replaced the key after fn as capslock ( for the customized one )
+### Replaced the [caps lock]() key as [fn]() & replaced the [key after fn]() as [capslock]() ( for the customized one )
 
 ### Or you can make your own by following the guide linked below -
 
