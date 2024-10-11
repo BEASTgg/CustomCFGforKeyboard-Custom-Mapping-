@@ -1,2 +1,1 @@
-# CustomCFGforKeyboard-Custom-Mapping-
-Custom mapping for Redragon Fiz K617
+# Custom mapping for Redragon Fiz K617
